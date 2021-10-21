@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header> matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-18eox44"
+  >
+    <div
+      class="css-2vaek4"
+    />
+    <div
+      class="css-1pkeeh3"
+    >
+      <div
+        class="css-1j8xtbb"
+      >
+        <div />
+        <div>
+          6° / -5°
+        </div>
+      </div>
+      <div
+        class="css-5thqwk"
+      >
+        °
+      </div>
+    </div>
+    <div
+      class="css-9msay7"
+    >
+      <div
+        class="css-jooq6e"
+      >
+        Munich
+      </div>
+      <div
+        class="css-115lm8a"
+      >
+        Monday
+      </div>
+      <div
+        class="css-115lm8a"
+      >
+        20. February
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

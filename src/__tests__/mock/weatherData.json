@@ -1,0 +1,133 @@
+{
+  "city": {
+    "name": "Munich"
+  },
+  "dateText": "20-02-2017",
+  "day": 1,
+  "date": 20,
+  "month": 1,
+  "maxTemperature": 6,
+  "minTemperature": -5,
+  "weatherList": [
+    {
+      "hour": 0,
+      "type": "Clear",
+      "temperature": -4
+    },
+    {
+      "hour": 1,
+      "type": "Clear",
+      "temperature": -4
+    },
+    {
+      "hour": 2,
+      "type": "Clear",
+      "temperature": -4
+    },
+    {
+      "hour": 3,
+      "type": "Clear",
+      "temperature": -5
+    },
+    {
+      "hour": 4,
+      "type": "Clear",
+      "temperature": -5
+    },
+    {
+      "hour": 5,
+      "type": "Clear",
+      "temperature": -5
+    },
+    {
+      "hour": 6,
+      "type": "Clear",
+      "temperature": -5
+    },
+    {
+      "hour": 7,
+      "type": "Clear",
+      "temperature": -5
+    },
+    {
+      "hour": 8,
+      "type": "Clear",
+      "temperature": -5
+    },
+    {
+      "hour": 9,
+      "type": "Clear",
+      "temperature": 1
+    },
+    {
+      "hour": 10,
+      "type": "Clear",
+      "temperature": 1
+    },
+    {
+      "hour": 11,
+      "type": "Clear",
+      "temperature": 1
+    },
+    {
+      "hour": 12,
+      "type": "Clear",
+      "temperature": 6
+    },
+    {
+      "hour": 13,
+      "type": "Clear",
+      "temperature": 6
+    },
+    {
+      "hour": 14,
+      "type": "Clear",
+      "temperature": 6
+    },
+    {
+      "hour": 15,
+      "type": "Clear",
+      "temperature": 6
+    },
+    {
+      "hour": 16,
+      "type": "Clear",
+      "temperature": 6
+    },
+    {
+      "hour": 17,
+      "type": "Clear",
+      "temperature": 6
+    },
+    {
+      "hour": 18,
+      "type": "Clouds",
+      "temperature": 1
+    },
+    {
+      "hour": 19,
+      "type": "Clouds",
+      "temperature": 1
+    },
+    {
+      "hour": 20,
+      "type": "Clouds",
+      "temperature": 1
+    },
+    {
+      "hour": 21,
+      "type": "Clouds",
+      "temperature": -1
+    },
+    {
+      "hour": 22,
+      "type": "Clouds",
+      "temperature": -1
+    },
+    {
+      "hour": 23,
+      "type": "Clouds",
+      "temperature": -1
+    }
+  ]
+}
