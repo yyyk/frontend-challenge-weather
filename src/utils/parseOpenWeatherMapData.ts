@@ -4,11 +4,11 @@ import { WeatherData, WeatherType } from 'src/models/weather';
 
 /**
  * NOTES:
- * - city name is hardcoded here as München is used in the api call.
+ * - city name 'Munich' is hardcoded here as 'München' is used in the api call.
  * - date for 'today' is selected based on the first date that contains
- *   weather data from 0:00 to 21:00, since the fetched data are dated as February 2017.
+ *   weather data from 0:00 to 21:00, since the fetched data is dated as February 2017.
  * - weather data are set every 3 hours. To make 24 hour data, each data duplicates next 2 missing hours.
- * - const TODAY is set because the weather on 2017-02-20 is only consisting of 'Clear' and 'Clouds', which svg icons are prepared.
+ * - const TODAY is set because the weather on 2017-02-20 is only date that consists of 'Clear' and 'Clouds', which svg icons are prepared.
  */
 
 const TODAY = '20-02-2017';
